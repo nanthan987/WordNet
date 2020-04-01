@@ -1,6 +1,6 @@
 # WordNet
 
-Assignment 1 of Algorithms, Part II by Princeton University, taught by R. Sedgewick and K. Wayne https://www.coursera.org/learn/algorithms-part2/
+Assignment 1 of **Algorithms, Part II** by **Princeton University**, taught by **R. Sedgewick** and **K. Wayne** https://www.coursera.org/learn/algorithms-part2/
 
 Specification of the assignment:
 
